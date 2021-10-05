@@ -7,4 +7,8 @@ import winsound
 # Creating An Infinite Loop
 def alarm():
     while True:
-        set_alarm = f"{hour.get()}"
+        # Set Alarm Time
+        set_alarm = f"{hour.get()}:{minute.get()}:{second.get()}"
+
+        # Wait For One Seconds
+        time.sleep(1)
