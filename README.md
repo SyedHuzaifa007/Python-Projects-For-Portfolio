@@ -5,5 +5,5 @@ This repository contains all the python projects made by me for my portfolio.
 - Data Structures
 - Algorithms
 - Web Developement
-- - App Developement
+- App Developement
 - Game Developement
