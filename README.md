@@ -7,3 +7,4 @@ This repository contains all the python projects made by me for my portfolio.
 - Web Developement
 - App Developement
 - Game Developement
+Every
