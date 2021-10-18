@@ -11,3 +11,4 @@ This repository contains all the python projects made by me for my portfolio.
 - GUI Programming
 - Networking
 #### Every Project Is Tested And Checked
+#### These Projects Are
