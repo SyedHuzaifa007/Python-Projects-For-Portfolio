@@ -1,7 +1,7 @@
 import qrcode
 
 # Input Data 
-input_data = " "
+input_data = "www.google.com"
 
 # Instance Of QR Code 
 qr_code = qrcode.QRCode(version = 1, box_size = 10, border = 5)
