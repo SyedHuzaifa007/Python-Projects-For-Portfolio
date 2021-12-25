@@ -10,6 +10,6 @@ This repository contains all the python projects made by me for my portfolio.
 - Game Developement
 - GUI Programming
 - Networking
-#### These Projects
+#### These Projects Are For
 #### Every Project Is Tested And Checked
 #### These Projects Are **Open Source** And Anyone Can Contribute In It
