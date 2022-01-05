@@ -1,3 +1,3 @@
 import pywhatkit
 
-pywhatkit.text_to_handwriting("Hello World!", save_to="hello.png")
+pywhatkit.text_to_handwriting("Hello World!", save_to="hello1.png")
